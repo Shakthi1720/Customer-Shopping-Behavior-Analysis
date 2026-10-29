@@ -1,11 +1,15 @@
 # Customer-Shopping-Behavior-Analysis
 An end-to-end data analytics project using Python, SQL, and Power BI to analyze customer shopping behavior and generate actionable business insights.
 
-## 🎥 Project Walkthrough
+## 🎥 Watch the Project Walkthrough
 
-Watch the YouTube video to learn about the project implementation.
+Learn about the project implementation using Python, SQL, and Power BI.
 
-🔗 **[Watch the Project Walkthrough on YouTube](https://youtu.be/v4l1g5M8aXo?si=IVefsblEe0gFaP3L)**
+### 🎬 Watch this YouTube video to follow the project walkthrough:
+
+[![Customer Shopping Behavior Analysis — Python, SQL & Power BI](https://img.youtube.com/vi/v4l1g5M8aXo/maxresdefault.jpg)](https://www.youtube.com/watch?v=v4l1g5M8aXo)
+
+🔗 *Link to Video:* [Watch on YouTube](https://www.youtube.com/watch?v=v4l1g5M8aXo)
 
 ## 📊 Project Overview
 
